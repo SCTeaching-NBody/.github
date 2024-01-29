@@ -4,9 +4,9 @@ Here we manage our Programming Project and Lab Course.
 
 ## Slides
 - [Programming Project](https://github.com/SCTeaching-NBody/ProgrammingProject_Slides)
-  - [PDF](https://github.com/SCTeaching-NBody/ProgrammingProject_Slides/blob/main/main.pdf)
+  - [PDF](https://github.com/SCTeaching-NBody/ProgrammingProject_Slides/blob/gh-pages/main.pdf)
 - [Lab Course](https://github.com/SCTeaching-NBody/LabCourse_Slides)
-  - [PDF](https://github.com/SCTeaching-NBody/LabCourse_Slides/blob/main/main.pdf)
+  - [PDF](https://github.com/SCTeaching-NBody/LabCourse_Slides/blob/gh-pages/main.pdf)
 
 ## Templates
 - [Programming Project Java](https://github.com/SCTeaching-NBody/ProgrammingProject_Implementation_Java)
