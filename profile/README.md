@@ -1,6 +1,6 @@
-# Scientific Computing NBody Teaching Repositories
+# Scientific Computing N-Body Teaching Repositories
 Welcome to the repository of the Scientific Computing group of the University of Stuttgart.
-Here we manage our Programming Project and our Lab Course.
+Here we manage our Programming Project and Lab Course.
 
 ## Slides
 - [Programming Project](https://github.com/SCTeaching-NBody/ProgrammingProject_Slides)
@@ -14,7 +14,7 @@ Here we manage our Programming Project and our Lab Course.
 - [Lab Course C++](https://github.com/SCTeaching-NBody/LabCourse_Template)
 
 
-## Additional Data
+## Additional Data and Data Generators
 - [Programming Project](https://github.com/SCTeaching-NBody/ProgrammingProject_Data)
 - [Lab Course](https://github.com/SCTeaching-NBody/LabCourse_Data)
 
